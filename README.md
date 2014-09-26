@@ -1,2 +1,2 @@
-NETWORK
+NETWORK Machine Project
 =======
